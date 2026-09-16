@@ -1,0 +1,18 @@
+cat <<EOT > .gitignore
+# Keil build folders
+Objects/
+Listings/
+DebugConfig/
+
+# Keil & STM32 temporary files
+*.uvgui.*
+*.uvguix.*
+*.build_log.htm
+*.dep
+*.lnp
+*.HTM
+*.dbgconf
+*.bak
+*_backup
+*.log
+EOT

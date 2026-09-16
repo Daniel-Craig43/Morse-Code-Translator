@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.41.0.0
+  generators:
+    - board: ""
+      device: STM32L476RGTx
+      id: CubeMX
+      output: C:/Users/ooc26/Documents/ECE3130/Cube_Template/STM32CubeMX/Target_1/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: C:/Users/ooc26/Documents/ECE3130/Cube_Template/Flashing_LED0.Target_1.cbuild-gen.yml
+          configuration: .Target_1
+          name: C:/Users/ooc26/Documents/ECE3130/Cube_Template/STM32CubeMX/Target_1/Flashing_LED0.cgen.yml
+          project: Flashing_LED0
